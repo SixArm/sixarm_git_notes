@@ -1,4 +1,4 @@
-# Merge vs. rebase
+# Merge or rebase
 
 In my opinion when using rebase you don't lose history or make it inaccurate. A bug would still be introduced by the commit that made it, so tracking down bugs with bisect or other tools works the same. The main advantage is that your history is much cleaner.
 
