@@ -1,4 +1,4 @@
-# Sync across machines
+# Git: sync across machines
 
 Something like "git sync" would be nice, no commits, no mess for your collaborators or in your Git history, just my current work, safe on the server, to be synced elsewhere without formally committing anything so that commits can be real improvements that require a commit message. 
 

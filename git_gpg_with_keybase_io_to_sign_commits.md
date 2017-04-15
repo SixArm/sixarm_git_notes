@@ -1,4 +1,4 @@
-# GPG with keybase.io to sign commits
+# Git: GPG with keybase.io to sign commits
 
 A guide on how to use GPG with keybase.io to sign commits:
 

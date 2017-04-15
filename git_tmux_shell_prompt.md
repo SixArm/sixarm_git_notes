@@ -1,4 +1,4 @@
-# tmux git shell prompt
+# Git: tmux shell prompt
 
 I have a dedicated Git tmux tab for every repo I'm working on, in that tab I use a git shell. Initiated by this bash function:
 
@@ -35,6 +35,8 @@ I have a dedicated Git tmux tab for every repo I'm working on, in that tab I use
 
 So I have this in my `.bashrc` and when I want my bash to get a handy Git prompt I type `gitprompt`.
 
-You do need the file `git-sh-prompt` which should come with git, for me it's located in `/usr/lib/git-core/git-sh-prompt`. It's also available here:
+You do need the file `git-sh-prompt` which should come with git, for me it's located in `/usr/lib/git-core/git-sh-prompt`. 
+
+It's also available here:
 
 * https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh

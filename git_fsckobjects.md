@@ -1,4 +1,4 @@
-# fsckobjects
+# Git: fsckobjects
 
 The fsckObjects settings are entirely separate from the SHA. They are about syntactic and semantic rules in the objects themselves (e.g., well-formatted committer name/dates, tree filenames that don't contain "/", etc).
 
